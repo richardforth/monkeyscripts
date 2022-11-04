@@ -1,2 +1,2 @@
 # monkeyscripts
-An archive of random greasemonky scripts
+An archive of random greasemonkey scripts
