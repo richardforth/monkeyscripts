@@ -2,7 +2,7 @@
 // @name         gm-fooodhub-checkfridgefirst-banner
 // @namespace    https://foodhub.co.uk/
 // @version      1.0
-// @description  Remember to go and check the fridhe before ordering food!
+// @description  Remember to go and check the fridge before ordering food!
 // @author       richard.forth@gmail.com
 // @match        https://foodhub.co.uk/*
 // @grant        none
